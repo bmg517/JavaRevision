@@ -1,4 +1,3 @@
-import java.util.Scanner;
 public class v10_LoopInJava {
     public static void main(String[]args){
     // 1. While Loop

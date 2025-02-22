@@ -21,24 +21,27 @@ public class v16_Array {
         // System.out.println(name[2]);
 
         // Displaying Array By Using For Loop
+
         // for(int i=0; i<marks.length; i++){
         //     System.out.println(marks[i]);
         // }
 
 
         // Displaying Arrays In Reverse ways
-        System.out.println("Printing In Reverse Way");
-        for(int i=marks.length -1; i>=0; i--){
-            System.out.println(marks[i]);
 
-
+    //     System.out.println("Printing In Reverse Way");
+    //     System.out.println(marks.length);
+    //     for(int i=marks.length -1; i>=0; i--){
+    //         System.out.println(marks[i]);
+    // }
 
         // For Each-Loop In Java
+
         System.out.println("Using For-Loop In Array ");
         for(int element: marks){
             System.out.println(element);
         }
-        }
-    }
     
+    
+    }  
 }

@@ -1,7 +1,5 @@
 public class v17_Multidimension_array {
     public static void main(String[]args){
-        // Multidimensional Array is a Array Of Array
-        int [] mark;   // 1-D Arrays
         int [][] flats;    // 2-D Arrays
         flats = new int [2][3];
         flats[0][0]=101;
